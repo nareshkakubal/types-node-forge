@@ -1,6 +1,6 @@
 /// <reference types="node" />
 
-declare module "node-forge" {
+declare module "types-node-forge" {
     type Byte = number;
     type Bytes = string;
     type Hex = string;
